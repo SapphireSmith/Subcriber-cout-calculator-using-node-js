@@ -22,3 +22,8 @@ go to a unverified youtube channel and open the video section then
 clickk on the link which means like thIs https://www.youtube.com/channel/{{THE USER CODE}}/videos
 the user code will apear inside the channel/abcd/videos
 copy it and and paste it on the user key then open the index.html file on any browser 
+
+
+
+................................................
+
